@@ -6,6 +6,7 @@
 3. ALWAYS preserve context between sessions
 4. ALWAYS provide verbatim chat history, not summaries
 5. remember my user name for git: veragluscevic
+6. ALWAY SAVE ALL FILES created in the session, so they are accessible after the session has ended
 
 ## Key Phrases to Use:
 - Start session: "Read the chat history and restore context"
