@@ -5,6 +5,7 @@
 2. ALWAYS append to complete_chat_history.txt when ending a session
 3. ALWAYS preserve context between sessions
 4. ALWAYS provide verbatim chat history, not summaries
+5. remember my user name for git: veragluscevic
 
 ## Key Phrases to Use:
 - Start session: "Read the chat history and restore context"
