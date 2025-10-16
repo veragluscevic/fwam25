@@ -285,4 +285,49 @@ Should I add this as a note to our `fwam25` chat history for future reference?
 
 User: yes, and also add a note to cursorrules
 
+Assistant: I'll add this important session management rule to both our chat history and the `.cursorrules` file.
+
+Perfect! I've added the important session management rule to both:
+
+✅ **Updated chat history** - Added the conversation about session context vs directory navigation  
+✅ **Updated `.cursorrules`** - Added the "Session Management Rule" section with the key principle
+
+The new rule clearly states:
+- **ONE SESSION = ONE PROJECT** - Each session focuses on a single project
+- **Directory navigation does NOT change session context**
+- **Session context is determined by what we're actually working on, not current directory**
+- **Maintains clear project boundaries and prevents context contamination**
+
+This will help ensure that future AI assistants (and you) understand that browsing to other directories doesn't change the project focus of the session. The session context remains tied to the actual work being done, not the file system navigation.
+
+Would you like me to commit these updates?
+
+User: yes
+
+Assistant: I'll commit these updates to preserve the session management rule in both the chat history and `.cursorrules` file.
+
+Perfect! ✅ **Successfully committed and pushed the session management rule!**
+
+## What was accomplished:
+
+✅ **Added session management rule** to `.cursorrules` - Clear guidance that one session = one project  
+✅ **Updated chat history** - Documented the conversation about session context vs directory navigation  
+✅ **Committed changes** - All updates safely stored in git  
+✅ **Pushed to GitHub** - Changes are now backed up remotely  
+
+## Key addition to `.cursorrules`:
+```
+### Session Management Rule:
+- ONE SESSION = ONE PROJECT: Each session focuses on a single project
+- Directory navigation does NOT change session context
+- Session context is determined by what we're actually working on, not current directory
+- Maintains clear project boundaries and prevents context contamination
+```
+
+Your `.cursorrules` template is now even more robust and will help ensure consistent behavior across all your future projects. The session management rule will prevent confusion when navigating between directories while maintaining clear project boundaries.
+
+The `fwam25` project now has a complete, well-documented session continuity system ready to serve as a template for your other research projects!
+
+User: also please save chat history one more time
+
 === CHAT SESSION ENDED ===
