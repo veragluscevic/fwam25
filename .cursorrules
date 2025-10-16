@@ -11,6 +11,12 @@
 3. Continue seamlessly from where we left off
 4. Reference previous decisions and progress
 
+### Session Management Rule:
+- ONE SESSION = ONE PROJECT: Each session focuses on a single project
+- Directory navigation does NOT change session context
+- Session context is determined by what we're actually working on, not current directory
+- Maintains clear project boundaries and prevents context contamination
+
 ### Session End Protocol:
 1. ALWAYS save complete chat history to `complete_chat_history.txt`
 2. APPEND to existing content - NEVER overwrite
